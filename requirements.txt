@@ -5,3 +5,5 @@ pandas
 scipy
 matplotlib
 seaborn
+pymongo
+jupyter
